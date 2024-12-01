@@ -29,7 +29,7 @@ const scriptures = [
     icon: FaBook,
     content: 'The Bhagavad Gita is a 700-verse Hindu scripture that is part of the epic Mahabharata.',
     parts: [
-      'Chapter 1: Arjuna’s Dilemma',
+      'Chapter 1: Arjuna’s Dilemma🤔',
       'Chapter 2: Sankhya Yoga',
       'Chapter 3: Karma Yoga',
       'Chapter 4: Jnana Karma Sanyasa Yoga',
